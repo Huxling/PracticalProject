@@ -28,8 +28,6 @@ public class Workshow {
         }
         else {
             System.out.println("查询失败，请检查数据库连接");
-
-     
         }
     }
 }
